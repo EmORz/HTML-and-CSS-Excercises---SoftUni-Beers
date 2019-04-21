@@ -3,6 +3,9 @@ body{
     font-family: Calibri;
 }
 
+main h1{
+    font-size: 48px;
+}
 .topnav a.active{
     background-color: #FEAE00;
     color: white;
